@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.mishor_123.snack32c962cd2f114b679941eff9607374e0"
     },
     "web": {
       "favicon": "./assets/favicon.png"
